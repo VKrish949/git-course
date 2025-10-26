@@ -6,8 +6,7 @@ Simple demo script that prints a message.
 def main():
     print("This is my demo project")
 
-    password = "43rgt9rbcu464dt"
-    print("Password is: "+password)
+
 
 if __name__ == "__main__":
     main()
